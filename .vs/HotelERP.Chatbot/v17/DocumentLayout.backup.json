@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hotel-erp-chatbot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E7151-EDB0-4E4F-8748-A826DC0BF95C}|src\\HotelERP.Chatbot.Application\\HotelERP.Chatbot.Application.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.application\\services\\chatbotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E7151-EDB0-4E4F-8748-A826DC0BF95C}|src\\HotelERP.Chatbot.Application\\HotelERP.Chatbot.Application.csproj|solutionrelative:src\\hotelerp.chatbot.application\\services\\chatbotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.api\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|solutionrelative:src\\hotelerp.chatbot.api\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|solutionrelative:src\\hotelerp.chatbot.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.api\\wwwroot\\chat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|solutionrelative:src\\hotelerp.chatbot.api\\wwwroot\\chat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2325239-7FC2-4612-9848-263F2E950C19}|src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.core\\dtos\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2325239-7FC2-4612-9848-263F2E950C19}|src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj|solutionrelative:src\\hotelerp.chatbot.core\\dtos\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2325239-7FC2-4612-9848-263F2E950C19}|src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.core\\dtos\\chatresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2325239-7FC2-4612-9848-263F2E950C19}|src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj|solutionrelative:src\\hotelerp.chatbot.core\\dtos\\chatresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|solutionrelative:src\\hotelerp.chatbot.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|solutionrelative:src\\hotelerp.chatbot.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E7151-EDB0-4E4F-8748-A826DC0BF95C}|src\\HotelERP.Chatbot.Application\\HotelERP.Chatbot.Application.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.application\\services\\chatcompletionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E7151-EDB0-4E4F-8748-A826DC0BF95C}|src\\HotelERP.Chatbot.Application\\HotelERP.Chatbot.Application.csproj|solutionrelative:src\\hotelerp.chatbot.application\\services\\chatcompletionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.api\\hotelerp.chatbot.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|solutionrelative:src\\hotelerp.chatbot.api\\hotelerp.chatbot.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A07AFE5-547E-4B02-B01E-8A81E5859FB8}|src\\HotelERP.Chatbot.Infrastructure\\HotelERP.Chatbot.Infrastructure.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.infrastructure\\hotelerp.chatbot.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A07AFE5-547E-4B02-B01E-8A81E5859FB8}|src\\HotelERP.Chatbot.Infrastructure\\HotelERP.Chatbot.Infrastructure.csproj|solutionrelative:src\\hotelerp.chatbot.infrastructure\\hotelerp.chatbot.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2325239-7FC2-4612-9848-263F2E950C19}|src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.core\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2325239-7FC2-4612-9848-263F2E950C19}|src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj|solutionrelative:src\\hotelerp.chatbot.core\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2325239-7FC2-4612-9848-263F2E950C19}|src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.core\\hotelerp.chatbot.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2325239-7FC2-4612-9848-263F2E950C19}|src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj|solutionrelative:src\\hotelerp.chatbot.core\\hotelerp.chatbot.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E7151-EDB0-4E4F-8748-A826DC0BF95C}|src\\HotelERP.Chatbot.Application\\HotelERP.Chatbot.Application.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.application\\hotelerp.chatbot.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A74E7151-EDB0-4E4F-8748-A826DC0BF95C}|src\\HotelERP.Chatbot.Application\\HotelERP.Chatbot.Application.csproj|solutionrelative:src\\hotelerp.chatbot.application\\hotelerp.chatbot.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2325239-7FC2-4612-9848-263F2E950C19}|src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.core\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2325239-7FC2-4612-9848-263F2E950C19}|src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj|solutionrelative:src\\hotelerp.chatbot.core\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.api\\wwwroot\\textfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C45F2864-3D15-4A19-BEEC-857671680743}|src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj|solutionrelative:src\\hotelerp.chatbot.api\\wwwroot\\textfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A07AFE5-547E-4B02-B01E-8A81E5859FB8}|src\\HotelERP.Chatbot.Infrastructure\\HotelERP.Chatbot.Infrastructure.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A07AFE5-547E-4B02-B01E-8A81E5859FB8}|src\\HotelERP.Chatbot.Infrastructure\\HotelERP.Chatbot.Infrastructure.csproj|solutionrelative:src\\hotelerp.chatbot.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A07AFE5-547E-4B02-B01E-8A81E5859FB8}|src\\HotelERP.Chatbot.Infrastructure\\HotelERP.Chatbot.Infrastructure.csproj|d:\\hotel-erp-chatbot\\src\\hotelerp.chatbot.infrastructure\\data\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A07AFE5-547E-4B02-B01E-8A81E5859FB8}|src\\HotelERP.Chatbot.Infrastructure\\HotelERP.Chatbot.Infrastructure.csproj|solutionrelative:src\\hotelerp.chatbot.infrastructure\\data\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T15:14:41.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Api\\Program.cs",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\Program.cs",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:35:02.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatbotService.cs",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Application\\Services\\ChatbotService.cs",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Application\\Services\\ChatbotService.cs",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Application\\Services\\ChatbotService.cs",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Application\\Services\\ChatbotService.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAowJkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:49:39.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatbotController.cs",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\Controllers\\ChatbotController.cs",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Api\\Controllers\\ChatbotController.cs",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\Controllers\\ChatbotController.cs",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Api\\Controllers\\ChatbotController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:37:50.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Api\\appsettings.json",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\appsettings.json",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T17:23:23.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatRequest.cs",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Core\\DTOs\\ChatRequest.cs",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Core\\DTOs\\ChatRequest.cs",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Core\\DTOs\\ChatRequest.cs",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Core\\DTOs\\ChatRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:59:06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatResponse.cs",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Core\\DTOs\\ChatResponse.cs",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Core\\DTOs\\ChatResponse.cs",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Core\\DTOs\\ChatResponse.cs",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Core\\DTOs\\ChatResponse.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:59:47.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "chat.html",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\wwwroot\\chat.html",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Api\\wwwroot\\chat.html",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\wwwroot\\chat.html",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Api\\wwwroot\\chat.html",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwHUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-10T17:27:33.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HotelERP.Chatbot.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Infrastructure\\HotelERP.Chatbot.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Infrastructure\\HotelERP.Chatbot.Infrastructure.csproj",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Infrastructure\\HotelERP.Chatbot.Infrastructure.csproj",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Infrastructure\\HotelERP.Chatbot.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T17:02:49.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HotelERP.Chatbot.Api.csproj",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Api\\HotelERP.Chatbot.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T16:27:50.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Core\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Core\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Core\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Core\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA/wAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:00:58.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatCompletionService.cs",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Application\\Services\\ChatCompletionService.cs",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Application\\Services\\ChatCompletionService.cs",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Application\\Services\\ChatCompletionService.cs",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Application\\Services\\ChatCompletionService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwD0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T14:16:54.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Core\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Core\\Entities\\Room.cs",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Core\\Entities\\Room.cs",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Core\\Entities\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:58:17.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HotelERP.Chatbot.Core.csproj",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Core\\HotelERP.Chatbot.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T16:54:04.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HotelContext.cs",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Infrastructure\\Data\\HotelContext.cs",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Infrastructure\\Data\\HotelContext.cs",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Infrastructure\\Data\\HotelContext.cs",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Infrastructure\\Data\\HotelContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:03:28.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:24:25.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TextFile.txt",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\wwwroot\\TextFile.txt",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Api\\wwwroot\\TextFile.txt",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Api\\wwwroot\\TextFile.txt",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Api\\wwwroot\\TextFile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-15T17:33:53.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HotelERP.Chatbot.Application.csproj",
+              "DocumentMoniker": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Application\\HotelERP.Chatbot.Application.csproj",
+              "RelativeDocumentMoniker": "src\\HotelERP.Chatbot.Application\\HotelERP.Chatbot.Application.csproj",
+              "ToolTip": "D:\\hotel-erp-chatbot\\src\\HotelERP.Chatbot.Application\\HotelERP.Chatbot.Application.csproj",
+              "RelativeToolTip": "src\\HotelERP.Chatbot.Application\\HotelERP.Chatbot.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T16:48:48.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

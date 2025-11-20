@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hotel ERP Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f3f3f3;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 30px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        #chatbox {
+            width: 400px;
+            height: 400px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            padding: 15px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .message {
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 6px;
+            max-width: 80%;
+        }
+
+        .user {
+            background: #d1e7dd;
+            align-self: flex-end;
+        }
+
+        .bot {
+            background: #e2e3e5;
+            align-self: flex-start;
+        }
+
+        #input-area {
+            margin-top: 20px;
+            width: 400px;
+            display: flex;
+            gap: 10px;
+        }
+
+        input {
+            flex: 1;
+            padding: 10px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            padding: 10px 20px;
+            background: #0078d7;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background: #005fa3;
+            }
+    </style>
+</head>
+<body>
+    <h1>Hotel ERP Chatbot</h1>
+    <div id="chatbox"></div>
+    <div id="input-area">
+        <input type="text" id="question" placeholder="Ask something..." />
+        <button id="sendBtn">Send</button>
+    </div>
+
+    <script>
+        const apiUrl = "https://localhost:7049/api/Chatbot/ask";
+ // Match your ASP.NET port
+
+        const chatbox = document.getElementById("chatbox");
+        const input = document.getElementById("question");
+
+        document.getElementById("sendBtn").addEventListener("click", async () => {
+            const question = input.value.trim();
+            if (!question) return;
+
+            // Display user message
+            const userMsg = document.createElement("div");
+            userMsg.className = "message user";
+            userMsg.textContent = question;
+            chatbox.appendChild(userMsg);
+            chatbox.scrollTop = chatbox.scrollHeight;
+            input.value = "";
+
+            try {
+                const res = await fetch(apiUrl, {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ question }) // Must match ChatRequest DTO
+                });
+
+                if (!res.ok) {
+                    throw new Error("Server error: " + res.status);
+                }
+
+                const data = await res.json();
+
+                const botMsg = document.createElement("div");
+                botMsg.className = "message bot";
+                botMsg.textContent = data.answer || "No response";
+                chatbox.appendChild(botMsg);
+                chatbox.scrollTop = chatbox.scrollHeight;
+
+            } catch (err) {
+                const errMsg = document.createElement("div");
+                errMsg.className = "message bot";
+                errMsg.textContent = "Error: " + err.message;
+                chatbox.appendChild(errMsg);
+                chatbox.scrollTop = chatbox.scrollHeight;
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+D:\hotel-erp-chatbot\src\HotelERP.Chatbot.Api\wwwroot\TextFile.txt
+D:\hotel-erp-chatbot\src\HotelERP.Chatbot.Api\wwwroot\chat.html
+wwwroot\chat.html
+wwwroot\TextFile.txt
